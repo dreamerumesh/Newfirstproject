@@ -1,2 +1,2 @@
 # Newfirstproject
-To print a promt in horizontal direction in c lang
+To print a given promt in horizontal direction with stars in c lang
